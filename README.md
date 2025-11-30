@@ -4,7 +4,7 @@
 ![USA Number Validator](https://raw.githubusercontent.com/pycoding20/usa-number-validator/refs/heads/main/usa-phone-number-validator.png)
 ![USA Number Validator](https://raw.githubusercontent.com/pycoding20/usa-number-validator/refs/heads/main/result.png)
 
-### Features:
+## Features:
 1. **High-Speed Validation Core** Optimized for efficient processing and high throughput for number verification.
 2. **Robust Accuracy** Implements standardized logic to ensure the accuracy and deliverability of phone number formats.
 3. **Metadata Categorization** Supports identification and filtering of numbers by type (Mobile, Landline, VOIP, Satellite, etc.).
@@ -14,7 +14,7 @@
 
 ---
 
-### Contact:
+## Contact:
 For paid support, custom development, or business inquiries, reach out via Telegram: @thepythoncode97
 
 ## Note:
