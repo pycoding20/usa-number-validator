@@ -14,8 +14,12 @@
 
 ---
 
-## Contact:
-For paid support, custom development, or business inquiries, reach out via Telegram: @thepythoncode97
+## 🤝 Get in Touch
+
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 If you engage in any illegal activities using this tool, the author will not take any responsibility.
